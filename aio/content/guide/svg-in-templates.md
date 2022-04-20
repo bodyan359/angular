@@ -6,7 +6,7 @@ Use these features to dynamically generate interactive graphics.
 
 <div class="alert is-helpful">
 
-See the <live-example name="template-syntax"></live-example> for a working example containing the code snippets in this guide.
+See the new link for a working example containing the code snippets in this guide.
 
 </div>
 
